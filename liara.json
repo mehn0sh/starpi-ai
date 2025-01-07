@@ -1,0 +1,13 @@
+{
+  "app":"strange-noyce-1t1ts4pycx",
+  "port":1337,
+  "build":{
+  "location":"iran"
+  },
+  "disks":[
+  {
+  "name":"data",
+  "mountTo":"/opt/app/"
+  }
+  ]
+  }
